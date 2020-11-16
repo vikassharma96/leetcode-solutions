@@ -1,0 +1,21 @@
+{
+  "name": "Leetcode Questions",
+  "short_name": "Leetcode-Questions",
+  "start_url": "index.html",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffd31d",
+  "background_color": "#333",
+  "display": "standalone"
+}
